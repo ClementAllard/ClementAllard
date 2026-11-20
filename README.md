@@ -1,6 +1,6 @@
 # Hi, I'm Clément Allard 👋
 
-I'm a Master's graduate in Computer Science from the Université de Mons (UMONS), Belgium, looking for my first professional experience as a **Backend**, **Fullstack**, or **Mobile** developer.
+I'm a Master's graduate in Computer Science from the Université de Mons (UMONS), Belgium, looking for my first professional experience in **Machine Learning**, **data analysis** and **software development**.
 
 My academic background combines solid software engineering foundations with research experience in reinforcement learning and formal methods.
 
